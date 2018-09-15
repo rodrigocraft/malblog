@@ -123,6 +123,7 @@ input, textarea {
   margin-bottom: 5%;
   margin-top: 1%;
   font-size: 100%;
+  width: 100%
 }
 textarea {
   resize:vertical;
