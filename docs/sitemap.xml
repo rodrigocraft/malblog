@@ -7,15 +7,8 @@
   </url>
   
   <url>
-    <loc>https://www.migrandoalinux.tk/project/project2/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.migrandoalinux.tk/project/project3/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.migrandoalinux.tk/project/project4/</loc>
+    <loc>https://www.migrandoalinux.tk/post/elporque/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -26,11 +19,6 @@
   <url>
     <loc>https://www.migrandoalinux.tk/tags/bienvenida/</loc>
     <lastmod>2018-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.migrandoalinux.tk/tags/bootstrap/</loc>
     <priority>0</priority>
   </url>
   
@@ -49,27 +37,7 @@
   </url>
   
   <url>
-    <loc>https://www.migrandoalinux.tk/tags/css/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.migrandoalinux.tk/tags/go/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.migrandoalinux.tk/tags/golang/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.migrandoalinux.tk/tags/highlight-js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.migrandoalinux.tk/tags/html/</loc>
     <priority>0</priority>
   </url>
   
@@ -85,40 +53,31 @@
   </url>
   
   <url>
-    <loc>https://www.migrandoalinux.tk/tags/js/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.migrandoalinux.tk/tags/linux/</loc>
-    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.migrandoalinux.tk/</loc>
-    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.migrandoalinux.tk/tags/por-qu%C3%A9/</loc>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.migrandoalinux.tk/post/</loc>
-    <lastmod>2018-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.migrandoalinux.tk/project/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.migrandoalinux.tk/tags/responsive/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.migrandoalinux.tk/tags/syntax-highlighting/</loc>
     <priority>0</priority>
   </url>
   
